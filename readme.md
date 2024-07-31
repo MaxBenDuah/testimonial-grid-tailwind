@@ -1,19 +1,37 @@
 # Testimonial Grid
 
-Testimonial Grid project from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+Testimonial Grid project using Tailwind and from Frontend Mentor Challenge.
 
-## Usage
+## Screenshots
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-testimonial-grid.png?raw=true)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/MaxBenDuah/testimonial-grid-tailwind.git
+```
+
+Go to the project directory
+
+```bash
+  cd testimonial-grid-tailwind
+```
 
 Install dependencies
 
-```
-npm Install
-```
-
-Run Tailwind CLI
-
-```
-npm run watch
+```bash
+  npm install
 ```
 
-![Alt text](images/testimonial-grid.png)
+Start the server
+
+```bash
+  npm run watch
+```
+
+## Demo
+
+https://testimonial-grid-mbd.netlify.app/
